@@ -1,3 +1,8 @@
+/**
+ * My implementation of the game Agar.io on the mbed
+ * 
+ * Created by Varun Malhotra
+ */
 
 #include "mbed.h"
 
